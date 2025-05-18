@@ -56,4 +56,3 @@ Follow the steps below to run the app on your local machine:
 
 This project is part of the ALX Software Engineering curriculum and serves as the foundation for a full Airbnb-style property listing interface.
 
-```
