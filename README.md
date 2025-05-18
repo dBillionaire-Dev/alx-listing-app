@@ -35,13 +35,13 @@ Follow the steps below to run the app on your local machine:
    ```bash
    git clone git@github.com:dBillionaire-Dev/alx-listing-app.git
    cd alx-listing-app
-````
+``
 
 2. **Install dependencies**:
 
    ```bash
    npm install
-   ```
+``
 
 3. **Run the development server**:
 
@@ -54,6 +54,6 @@ Follow the steps below to run the app on your local machine:
 
 ---
 
-> This project is part of the ALX Software Engineering curriculum and serves as the foundation for a full Airbnb-style property listing interface.
+This project is part of the ALX Software Engineering curriculum and serves as the foundation for a full Airbnb-style property listing interface.
 
 ```
